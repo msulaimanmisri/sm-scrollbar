@@ -17,7 +17,7 @@ if (!defined('ABSPATH')) {
 
 function smScrollbar()
 {
-    wp_enqueue_style('sm-custom-style', plugins_url('/style.css', __FILE__));
+    wp_enqueue_style('sm-custom-style', plugins_url('/style.min.css', __FILE__));
     wp_enqueue_script('sm-custom-script', plugins_url('/script.js', __FILE__), ['jquery'], '1.0', true);
 }
 
