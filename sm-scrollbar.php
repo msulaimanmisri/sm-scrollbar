@@ -1,12 +1,12 @@
 <?php
 
 /**
- * Plugin Name:       Ahlan API
- * Plugin URI:        https://github.com/Asia-Quest-Malaysia
- * Description:       This plugin will create custom API Endpoint to allow AQM Developers to GET / POST / PATCH the data from custom Application
- * Version:           1.4
+ * Plugin Name:       SM Scrollbar
+ * Plugin URI:        https://github.com/msulaimanmisri/sm-scrollbar
+ * Description:       A simple WordPress plugin that turns your windows scrollbar into look-like MacOS scrollbar
+ * Version:           1.0
  * Author:            Sulaiman Misri
  * Author URI:        https://github.com/msulaimanmisri
- * Text Domain:       ahlan-api
+ * Text Domain:       sm-scrollbar
  * Domain Path:       /languages
  */
