@@ -1,7 +1,7 @@
 /* Customize website's scrollbar like Mac OS
 Not supports in Firefox and IE */
 .scrollbar {
-    overflow: overlay !important;
+    /* overflow: overlay !important; */
 }
 
 /* total width */
