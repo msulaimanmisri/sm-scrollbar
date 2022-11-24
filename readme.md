@@ -1,23 +1,54 @@
-### About
-A simple WordPress plugin that turns your windows scrollbar into look-like MacOS scrollbar
+# SM - Scrollbar
+Contributors: sulaimanmisri
 
-### Demo
-For demo purpose, please visit https://sulaimanmisri.com.
+Tags: MacOS, UI, Design, Sidebar
 
-### How to install
-1. Via Github
-- Click the green button (that have text `<> Code`).
-- Click Download ZIP
-- Upload to your website
+Requires at least: 5.0
 
-### Currently not support
+Tested up to: 6.1.1
+
+Stable tag: 1.1
+
+License: GPLv2 or later
+
+Requires PHP: 7.0
+
+
+## Description
+
+A simple WordPress plugin that turns your windows scrollbar into look-like MacOS scrollbar.
+
+## Demo
+For demo purpose, please visit https://sulaimanmisri.com
+
+## Currently not support
 1. Any WordPress Block Based (Theme @ Plugins)
+2. Mozilla Firefox & Internet Explorer Browser
 
-### Reminder
-1. This plugins only add 2 new classes in your `site-content` ID or Class which is `scrollbar` & `overflow`. 
-2. This Should be not bring any harm to your WordPress site.
-3. I've tried with many themes and works fine. But, if you encounter any error, just uninstall the plugin and everything will be okay.
+## Installation
+1. Upload the plugin folder to your /wp-content/plugins/ folder
+2. Or, just click `Install now` in WordPress add new plugins.
+3. After activate the plugin, you Scrollbar will look nice :)
+  
+## Frequently Asked Questions
+  
+### How do I use this plugin?
+1. Simply install the plugin and then the plugin will change your scrollbar UI automatically
 
-### Size of the code
-1. JavaScript = 1KB
-2. CSS = 1KB
+### How to uninstall the plugin?
+1. Simply deactivate and delete the plugin. 
+
+### Do you offer PRO version?
+1. No. This plugin will be free. Always.
+2. But I do accept Freelance work. Please go to my website (https://sulaimanmisri.com).
+
+## Changelog ##
+
+### Version 1.1.2 ###
+* Fix WordPress Repository not read the tag folder
+
+### Version 1.1 ###
+* Fix WordPress Repository not read the docs
+
+### Version 1.0 ###
+* Plugin initialize
